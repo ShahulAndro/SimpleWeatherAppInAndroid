@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleWeatherAppInAndroid</string>
+    <string name="api_key">6a1ebedceb8a07fb1c0f648cc82f3d59</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="weather_information">Weather Information</string>
+</resources>
